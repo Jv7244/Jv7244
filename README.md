@@ -1,7 +1,7 @@
 ### Ola, eu sou o José Victor 👋 Bem vindo a minha pagina do GitHub
 
-- 🔭 Atualmente não trabalho na área, mas em breve serei dev software
-- 🌱 Faculdade de Ciência da Computação e estudando linguagem C
+- 🔭 Atualmente não trabalho na área, mas em breve estarei...
+- 🌱 Estudante de Ciência da Computação EAD na ### Anhembi Morumbi
 - 💬 Contate-me pelo whats: (13) 99717-6335 ou E-mail: victor.jv7244@gmail.com
 
  <div>
@@ -13,6 +13,10 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Jv-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Jv-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Jv-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+   <img align="center" alt="Jv-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+   <img align="center" alt="Jv-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
   <img align="right" alt="Jv-Gato" src="https://i.pinimg.com/originals/8e/90/ae/8e90ae261d9bf52464fb0043a9d51bfd.gif">
 </div>
   
