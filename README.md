@@ -1,7 +1,7 @@
 ### Ola, eu sou o José Victor 👋 Bem vindo a minha pagina do GitHub
 
 - 🔭 Atualmente não trabalho na área, mas em breve estarei...
-- 🌱 Estudante de Ciência da Computação EAD na ### Anhembi Morumbi
+- 🌱 Estudante de Ciência da Computação EAD na Cruzeiro do Sul
 - 💬 Contate-me pelo whats: (13) 99717-6335 ou E-mail: victor.jv7244@gmail.com
 
  <div>
