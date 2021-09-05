@@ -25,7 +25,7 @@
   <div>
       <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100008442092161" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href = "mailto:victor.jv7244@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <h href="https://www.futorodejv.com"><img src"https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-web-search-icon-png-image_4140340.jpg" target="_blank></a>
+   <h href="https://www.futorodejv.com"><img src"https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-web-search-icon-png-image_4140340.jpg" width="40"></a>
    
    ![Snake animation](https://github.com/Jv7244/Jv7244/blob/output/github-contribution-grid-snake.svg)
     </div>
